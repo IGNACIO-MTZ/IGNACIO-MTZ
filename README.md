@@ -13,6 +13,8 @@
 1. Actualmente estoy aprendiendo programacion orientada a objetos con java enfocado en BackEnd.
 2. Regularmente estoy en el programa de [Oracle](https://www.oracle.com/mx/education/oracle-next-education/).
 3. Participe en el Programa de Formación de Developers [Microsoft Launch X](https://github.com/Launch-X-Latam) por [Innovaccion virtual](https://news.microsoft.com/es-xl/la-iniciativa-launch-x-latam-ayuda-a-los-jovenes-latinoamericanos-a-certificarse-como-desarrolladores-y-potenciar-sus-oportunidades-laborales/#:~:text=Se%20trata%20de%20un%20programa%20100%25%20digital%20para,de%20formaci%C3%B3n%20y%20conversaciones%20con%20expertos%20de%20tecnolog%C3%ADa.)
+4. Aqui encontraras mi certificado completo de los cursos que he tomado [ONE - Oracle Next Education
+](https://app.aluracursos.com/user/ccnobe/fullCertificate/041d4fbccc12451654922b5252ce58d8)
 
 ```java
 public AcercaDeMi() {
@@ -20,6 +22,6 @@ public AcercaDeMi() {
     country = "Mexican";
     age = 26;
     city = "Monterrey N.L.";
-    lenguajesDeProgramacion = new String[] {"Java", "JavaScript"};
+    lenguajesDeProgramacion = new String[] {"Java", "JavaScript", "MySQL"};
 }
 ```
