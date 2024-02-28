@@ -1,6 +1,6 @@
 # Hola :wave: me llamo Ignacio Martinez
 
-## Soy un desarrollador apasionado por la tecnología, actualmente estudio la Lic. en Informática Administrativa junto con el programa de Oracle ONE NextEducation. Sígueme en: [linkedin](https://www.linkedin.com/in/ignacio-martinez-bautista-13075b1a8/):rocket:
+## Soy un desarrollador apasionado por la tecnología, actualmente estudio la Lic. en Informática Administrativa junto con el programa de Oracle ONE Next Education. Sígueme en: [linkedin](https://www.linkedin.com/in/ignacio-martinez-bautista-13075b1a8/):rocket:
 
 ---
 
